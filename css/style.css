@@ -1,0 +1,19 @@
+body{
+    background: url(https://www.zonebowling.com/media/4976/zb-teens-banner-parties.jpg) no-repeat center ;
+    background-size: cover;
+    color: rgb(81, 238, 42);
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.link{
+    color: cornflowerblue;
+    text-decoration: none;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.link:hover{
+    color: darkred;
+}
